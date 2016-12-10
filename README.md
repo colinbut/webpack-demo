@@ -48,3 +48,24 @@ Providing you have the webpack.config.js config file
 ```
 webpack --config webpack.config.js
 ```
+
+
+#### Using Webpack with npm
+
+It is possible to bundle with npm by just doing:
+
+```
+npm run build
+```
+
+providing you have the following in your `package.json` file:
+
+```
+{
+  ...
+  "scripts": {
+    "build": "webpack"
+  }
+  ...
+}
+```
