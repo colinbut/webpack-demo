@@ -1,6 +1,8 @@
-# webpack-demo
+# Webpack Demo
 
 This sample repository demonstrates the pure basics of Webpack.
+
+The webpack in demonstration is from Webpack 2
 
 From the https://webpack.js.org/get-started/
 
